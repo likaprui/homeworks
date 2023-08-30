@@ -45,6 +45,11 @@ name2 = "   LIKA   "
 
 
 print(name2.replace(" ", "<3"))
+print(full_name[0:9:5])
+print(full_name.upper()[5:])
+print("k" in full_name)
+print(len(full_name))
+
       
 
 
