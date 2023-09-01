@@ -25,7 +25,7 @@
 # print("chemi saxelia " + my_name)
 
 # my_age = 17
-# my_age += 3          #ინკრემენტაცია
+# my_age += 3
 # print(my_age)
 
 # name = input("enter your name : ")
@@ -47,57 +47,15 @@
 #      print(firstnumber*secondnumber)
 # else :
 #      print(message)
-                                      #აქ დასაწერი მაქვს..........
+                                      #აქ დასაწერი მაქვს...................
 
 
-#print(20 % 6)   #გვიბრუნებს ნაშთს
+print(20 % 6)   #გვიბრუნებს ნაშთს
 
 #input, %, if, +=
 
-# print(a + b)
-# print(a * b)
-# print(a / b)
-# print(a - b)
-
-# print(b % a)
-# print(a ** b)    #ხარისხში აყვანა
-# print(a/b)      #გაყოფა ზუსტად
-# print(a//b)     #გაყოფა ჩამოჭრით
-
-
-
-
-
-
-
-# my_boolean = True
-# print(my_boolean)
-
-# print( 2==3 )
-
-# print("hello" == "hello")   #ორი ტოლობა შემოდის რაც არის შედარება ორი სტრინგის
-
-# #შედარება
-# print(x !=8)   #!= არ უდრის
-# print(x >= 7)  #ერთ-ერთი პირობა მაინც უნდა შესრულდეს
-
-
-
-
-
-
-
 #მომხმარებელმა ტერმინალიდან შემოიტანოს 3 რიცხვი
 #აქედან მხოლოდ კენტები შეიკრიბოს და დაპრინტოს ჯამი
-
-
-# numb1 = int(input("enter your first number: "))
-# numb2 = int(input("enter your second number: "))
-# numb3 = int(input("enter your third number: "))
-# product = int(numb1+numb2+numb3)
-
-# if numb1 %2 > 0 and numb2 %2 > 0 and numb3 %2 > 0 :
-#    print(product)
 
 
 
