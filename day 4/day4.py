@@ -26,14 +26,14 @@
 # for char in my_name:
 #     print(char)
 
-print("i" in "lika")
+# print("i" in "lika")
 
 # age1 = 10
 # age2 = 6
 
 # if age1>age2:
 #     print("1 > 2")                
-# elif age2 > age1 :
+# elif age2 > age1 :              ...... #if : else : elif ......
 #     print ("2 > 1")
 # else:
 #     print("tolia")                               
@@ -83,13 +83,13 @@ print("i" in "lika")
 #         print('there is {} "a" in my text'.format(amount_of_a_in_my_sentence))
 
 # print('"stay hungry, stay foolish" by Steve Jobs')
-
-num = 7 
-if num >3:
-    print("3")
-    if num <5:
-        print("5")
-        if num ==7:
-            print("7")
+#.........................
+# num = 7                  
+# if num >3:
+#     print("3")
+#     if num <5:
+#         print("5")
+#         if num ==7:
+#             print("7")
 
 
