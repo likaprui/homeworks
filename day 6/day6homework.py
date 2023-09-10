@@ -4,3 +4,5 @@ i = 0
 while i< len(my_list):
     print(my_list[i]+ " "+ "girs" +" "+ str(price[i]) +" "+"lari")
     i+=1
+
+

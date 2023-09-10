@@ -5,15 +5,15 @@
 #                                      1)
 # i - საიტერაციო ცვლადი
 # for i in range(7):       #range(7) = 0,1,2,3,4,5,6  დიაპაზონი ყოველთვის ერთვის ინტეჯერს
-#     print("lika")
+#     print("nika")
 
 
 # for x in range(3,6):       #range(3,6) = 3,4,5
-#     print(str(x) + "lika")       
+#     print(str(x) + "nika")       
 
 
-# for x in range(5, 10, 2):      #range(5,10) = 5,7,9
-#     print(str(x) + "lika")   
+for x in range(5, 10, 2):      #range(5,10) = 5,7,9
+    print(str(x) + "nika")   
 
 
 
@@ -41,12 +41,28 @@
 #ed
 #rf
  
-a = "qwerty"
-b = "asdfgh"
-i= 0
-while i < 4:
-    print(a[i] + b [i] )
-    i +=1
+# a = "qwerty"
+# b = "asdfgh"
+# i= 0
+# while i < 4:
+#     print(a[i] + b [i] )
+#     i +=1 
+
+# if 10>5 and 3>1 :
+#     print("cool")     #boolean ტიპის ცვლადების დასაკავშირებლად შეგვიძლია გამოვიყენოთ and : or
+
+# print(not 1 == 1)       #False
+# print(not 1>7)          #True
+
+
+
+
+
+
+
+
+
+
 
 
 
