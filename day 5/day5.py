@@ -12,8 +12,8 @@
 #     print(str(x) + "nika")       
 
 
-for x in range(5, 10, 2):      #range(5,10) = 5,7,9
-    print(str(x) + "nika")   
+# for x in range(5, 10, 2):      #range(5,10) = 5,7,9
+#     print(str(x) + "nika")   
 
 
 

@@ -118,12 +118,6 @@ menu= ["xinkali", "mwvadi", "lobiani", "qababi", "khachapuri"]
 # 2) students = ["bobi", "siuzi", "gungli", "roksi", "miau"]
 # შეატრიალეთ უკუღმა, sort da რევერსის გარეშე
 
-
-scores = [10,20,30,77,33,22,9]
-i=0
-next_number = i+[1]
-while i in range:
-    if next_number>i==max_number:
     
  
 # students = ["bobi", "siuzi", "gungli", "roksi", "miau"]

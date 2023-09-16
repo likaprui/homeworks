@@ -40,8 +40,7 @@
 
 
 # 2)
-students = ["lika", "nika", "shota", "jeko"]
-print(len(students))
+# students = ["lika", "nika", "shota", "jeko"]
 # new_arr = []
 # i = len(students)
 

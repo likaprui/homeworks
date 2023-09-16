@@ -36,9 +36,8 @@
 
             
 def pair_sum(arr1, arr2):
-    for i in range (len(arr1)):              
+    for i in range (len(arr1)):              #რიცხვია ლენ..
         print(arr1[i]+arr2[i])
-
 pair_sum([20, 43, 5],
          [2, 4, 51])
 
