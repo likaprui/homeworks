@@ -11,20 +11,20 @@
 
 
 
-def players(x,y):
-    if x>y:
-     difference1=x-y
-     print("x metia y-ze"+ str(difference1)+"-it" )
-    elif x<y:
-     difference2=y-x
-     print("y metia x-ze"+ str(difference2)+"-it")
-    else :
-     print("tolia")
+# def players(x,y):
+#     if x>y:
+#      difference1=x-y
+#      print("x metia y-ze"+ str(difference1)+"-it" )
+#     elif x<y:
+#      difference2=y-x
+#      print("y metia x-ze"+ str(difference2)+"-it")
+#     else :
+#      print("tolia")
 # x = int(input("enter x score: "))
 # y = int(input("enter y score: "))
 # players(x,y)
 
 
 
-def multiply(a,b):
-  return a * b
+# def multiply(a,b):
+#   return a * b

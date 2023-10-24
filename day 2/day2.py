@@ -1,13 +1,16 @@
-name = "lika"
+# name = "lika"
 
 #print(len(name))   #4
 
-my_sentence = """გამარჯობა, შეგახსენებთ რომ სწავლას იწყებთ 15 სექტემბერს,
-გთხოვთ არ გააცდინოთ"""          #გრძელი სტრინგი
+#გრძელი სტრინგი
+# my_sentence = """გამარჯობა, შეგახსენებთ რომ სწავლას იწყებთ 15 სექტემბერს,
+# გთხოვთ არ გააცდინოთ"""         
 
 #print(my_sentence)
 
-#knows_programming = True       bulean ტიპის ცვლადი
+
+
+#knows_programming = True       bulean _ ტიპის ცვლადი
 
 #if 10>5:    #10>5 იგივეა რაც True
     #print ("hello")
@@ -22,7 +25,7 @@ my_sentence = """გამარჯობა, შეგახსენებთ 
 
 #print("z" not in full_name)
 
-full_name = "lika pruidze"
+# full_name = "lika pruidze"
 #print(full_name[2:7])
 #print(full_name[2:7:2])
                #start:finish:step
@@ -36,19 +39,21 @@ full_name = "lika pruidze"
 #  1) სტრინგ.upper()
 #  2) len(სტრინგ)
 
-# print(full_name.upper())                                                                    cntrl + ?
+                                                                   #cntrl + ?
 
-name2 = "   LIKA   "
+
+# name2 = "   LIKA   "
 #print(name2.lower())
+# print(full_name.upper()) 
 
 #print(name2.strip())         # ჩამოჭრა strip
 
 
-print(name2.replace(" ", "<3"))
-print(full_name[0:9:5])
-print(full_name.upper()[5:])
-print("k" in full_name)
-print(len(full_name))
+# print(name2.replace(" ", "<3"))
+# print(full_name[0:9:5])
+# print(full_name.upper()[5:])
+# print("k" in full_name)
+# print(len(full_name))
 
       
 

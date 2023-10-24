@@ -25,9 +25,9 @@
 #     return final_str[:-1]
 
 
-name="lika77"
-print(name[:-1])              #ქმნის მეორე ვირტუალურ ასლს და აჭრის ბოლო ასოს
-print(name)
+# name="lika77"
+# print(name[:-1])              #ქმნის მეორე ვირტუალურ ასლს და აჭრის ბოლო ასოს
+# print(name)
 
 
 

@@ -1,4 +1,4 @@
-arr=["lika","luka","bobi","gio"]
+# arr=["lika","luka","bobi","gio"]
 # i=0
 # for element in arr:
 #     print(i,element)

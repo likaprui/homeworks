@@ -24,8 +24,8 @@
 # print(menu)
 
 ########################################################################################################
-my_name = "lika"
-new_name= ""
+# my_name = "lika"
+# new_name= ""
 
 # for i in range (len(my_name)):
 #     if i == 2 or i ==3:      # "ან"- ის შემთხვევაში ორივე სრულდება 
@@ -77,7 +77,7 @@ new_name= ""
 ####################################################################################
 
 #remove
-menu= ["xinkali", "mwvadi", "lobiani", "qababi", "khachapuri"]
+# menu= ["xinkali", "mwvadi", "lobiani", "qababi", "khachapuri"]
 
 # menu.remove("xinkali")                                               წაშლა
 # menu.remove("qababi")
