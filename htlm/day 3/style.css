@@ -1,0 +1,22 @@
+.Skills{
+    color: yellowgreen;
+}
+
+.Lang{
+    color: aqua;
+}
+
+.Project{
+    color: blueviolet;
+}
+
+img{
+    width: 130px;
+    height: 120px;
+    border-radius: 50%; /* Make it a circle */
+
+}
+
+table{
+    background-color:rgb(171, 253, 234);
+}

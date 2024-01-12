@@ -1,6 +1,6 @@
 # my_name = "lika"
 # print(my_name * 3)           #პრინტი არის მარტივი კოდებისთვის 
-#                              #return არის ფუნქციებისთვის
+                             #return არის ფუნქციებისთვის
 
 # def repeat_str(repeat, string):
 #     return(string * repeat)

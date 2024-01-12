@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration</title>
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 110vh;
+            margin: 0;
+            flex-direction: column;
+            background: url(/htlm/photos/forregistration.jpg);
+            background-size: cover;
+        }
+
+        header {
+            background-color: rgb(196, 149, 253);
+            padding: 10px;
+            text-align: center;
+            width: 100%;
+        }
+        
+        nav {
+            display: flex;
+            justify-content: right;
+            background-color: #cb92fd; 
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+        }
+
+        nav li {
+            margin: 10px; /* Adjust spacing between buttons */
+            font-size: large;
+        }
+
+        .navbutton {
+            background: none;
+            border: none;
+            color: white;
+            font-size: large;
+            cursor: pointer;
+        }
+
+        .navbutton:hover {
+            text-decoration:underline;
+        }
+
+        form{
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 0 50px rgba(0, 0, 0, 0.721);
+            width: 350px;
+            height: 690px;
+            margin-top: 50px;
+        }
+
+        form h2{
+            text-align: center;
+            font-size: 35px;
+        }
+
+        input, select{
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            font-size: 14px;
+            box-sizing: border-box;
+        }
+
+        form .signupbttn{
+            background-color:rgb(115, 0, 255);
+            color: #ffffff;
+            padding: 10px 20px;
+            border: none;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+        form .signupbttn:hover {
+            background-color: #8a00ff;
+        }
+
+        
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><button class="navbutton"> Home </button></li>
+                <li><button class="navbutton"> Account </button></li>
+                <li><button class="navbutton"> About Us </button></li>
+                <li><button class="navbutton"> Contact Info </button></li>
+            </ul>
+        </nav>
+    </header>
+<!--name გვჭირდება იმისათვის რომ მონაცემთა ბაზაში სხვადასხვა ინფუთს სახელი დავარქვათ -->
+        <form>
+            <h2> Sign Up For Free </h2>
+            <input type="text" placeholder="Enter your name" required name="name">
+            <br><br>
+            <input type="text" placeholder="Enter your surname" required name="surname">
+            <br><br>
+            <input type="date" placeholder="Your birthdate" required name="birthdate">
+            <br><br>
+            <select name="gender">
+                <option>Male</option>
+                <option>Female</option>
+            </select>
+            <br><br>
+            <input type="number" placeholder="Phone number">
+            <br><br>
+            <input type="email" placeholder="Enter your e-mail" required>
+            <br><br>
+            <input type="password" placeholder="Create password" minlength="8" maxlength="16">
+            <br>
+
+            <input type="checkbox" id="chekbox">
+            <label for="chekbox"> 
+                If you agree to the terms, check the box
+            </label>
+            <br>
+            <br>
+            <input type="submit" id="signupbttn" value="Sign up" onclick="alert('Registration was completed successfully')">
+
+
+        </form>
+    
+</body>
+</html>
